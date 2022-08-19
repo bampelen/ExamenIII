@@ -1,2 +1,2 @@
 # ExamenIII
-https://bampelen.github.io/ExamenIII/indeX.html/
+https://bampelen.github.io/ExamenIII/indeX.html
